@@ -214,10 +214,10 @@ Add these to your `.gitconfig`:
 
 ```bash
 # 1. Fork repository
-gh repo fork yourusername/llm-workflow-ui
+gh repo fork ANTHATIKARTHIK/Drag-and-Drop-Workflow-UI-for-LLM-Applications
 
 # 2. Clone your fork
-git clone git@github.com:yourusername/llm-workflow-ui.git
+git clone git@github.com:https://github.com/ANTHATIKARTHIK/Drag-and-Drop-Workflow-UI-for-LLM-Applications.git
 
 # 3. Create feature branch
 git checkout -b feature/amazing-feature
@@ -259,9 +259,9 @@ git log --show-signature
 
 ## 🌟 Support & Community
 
-[![Discord](https://img.shields.io/discord/1234567890?style=for-the-badge&logo=discord)](https://discord.gg/yourserver)
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/llm-workflow-ui?style=for-the-badge&logo=github)](https://github.com/yourusername/llm-workflow-ui)
+[![Discord](https://discord.com/channels/1331919794877890562/1331919794877890565)]([karthikanthati](https://discord.com/channels/@me))
+[![Gmail](karthikanthati2000@gmail.com)](https://mail.google.com/mail/u/0/#inbox)
+[![GitHub Stars](https://github.com/ANTHATIKARTHIK)](https://github.com/ANTHATIKARTHIK/Drag-and-Drop-Workflow-UI-for-LLM-Applications)
 
 </div>
 
@@ -269,8 +269,5 @@ git log --show-signature
 
 <div align="center">
 
-Made with 💖 by the LLM Workflow Team
-
-[Website](https://llmworkflow.com) • [Documentation](https://docs.llmworkflow.com) • [Blog](https://blog.llmworkflow.com)
-
+Made with 💖 by Anthati Karthik
 </div>

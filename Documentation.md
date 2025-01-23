@@ -10,6 +10,7 @@ A Drag-and-Drop Workflow UI for LLM applications provides a visual and intuitive
 #### Input Nodes: 
 These nodes provide data to the workflow, such as text input, file uploads, or data from external APIs or databases.
 #### LLM Processing Nodes:
+cat << EOF >> README.md
 These nodes perform operations using LLMs. Examples include:
 Prompt Engineering: Constructing and refining prompts for the LLM.
 Text Generation: Generating text based on a prompt.
@@ -17,6 +18,7 @@ Summarization: Condensing longer texts into shorter summaries.
 Translation: Translating text from one language to another.
 Sentiment Analysis: Determining the emotional tone of text.
 Question Answering: Extracting answers from a given text.
+EOF
 
 #### Output Nodes: 
 These nodes handle the output of the workflow, such as displaying results, saving to a file, sending data to another system via an API, or generating visualizations.

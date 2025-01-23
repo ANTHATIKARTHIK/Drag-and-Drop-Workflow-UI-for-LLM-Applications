@@ -36,7 +36,7 @@
 
 ```bash
 # Clone & Setup in one command
-git clone https://github.com/yourusername/llm-workflow-ui.git && cd llm-workflow-ui && npm install
+git clone https://github.com/ANTHATIKARTHIK/Drag-and-Drop-Workflow-UI-for-LLM-Applications && cd Drag-and-Drop-Workflow-UI-for-LLM-Applications && npm install
 ```
 
 ### 🚀 Development

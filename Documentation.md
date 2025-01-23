@@ -17,29 +17,41 @@ Prompt Engineering: Constructing and refining prompts for the LLM.
 Text Generation: Generating text based on a prompt.
 
 Summarization: Condensing longer texts into shorter summaries.
+
 Translation: Translating text from one language to another.
+
 Sentiment Analysis: Determining the emotional tone of text.
+
 Question Answering: Extracting answers from a given text.
-EOF
+
 
 #### Output Nodes: 
 These nodes handle the output of the workflow, such as displaying results, saving to a file, sending data to another system via an API, or generating visualizations.
 
 #### Utility Nodes: 
 These nodes provide supporting functions, such as:Data Transformation: Modifying data between nodes.
+
 Conditional Logic: Branching the workflow based on conditions.
+
 Looping: Repeating parts of the workflow.
 
 #### Key Benefits:
 Ease of Use: No coding required, making LLM applications accessible to non-programmers.
+
 Visual Clarity: Workflows are represented visually, making them easier to understand and debug.
+
 Flexibility: Complex workflows can be created by combining different nodes.
+
 Faster Development: Rapid prototyping and iteration of LLM applications.
+
 Collaboration: Easier to share and collaborate on workflows.
+
 ##### Example Use Case:
 Imagine building a workflow for summarizing customer feedback. The workflow might include:
 
 Input Node: Reads customer feedback from a CSV file.
+
 LLM Processing Node (Summarization): Uses an LLM to summarize each piece of feedback.
+
 Output Node: Saves the summaries to a new file or displays them in a dashboard.
 
